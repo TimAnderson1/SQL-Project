@@ -320,6 +320,6 @@ These are the major insights gained from this analysis:
 
 ## Closing Thoughts 
 
-This Project Helped me practice and showcase my SQL skills while also growing my knowledge of the data job market. In doing this project I have clear understanding of the skills needed and average salaries for different factors. Hopefully this project conveys my ability to perform simple and advanced queries to retrieve and gain insights on data.
+This Project Helped me practice and showcase my SQL skills while also growing my knowledge of the data job market. In doing this project I have clear understanding of the skills needed and average salaries for different factors, therefore as an aspiring data analyst, I am now able to better position myself within a competitive market. Hopefully this project conveys my ability to perform simple and advanced queries to retrieve and gain insights on data.
 
 ***This project was performed using a precleaned dataset created by [Luke Barousse](http://lukebarousse.com/)***
