@@ -64,7 +64,7 @@ ORDER BY
 * **Variety in the Job Title:** I can see that the full job title of these postings are again very diverse which highlights to me the different levels of opportunities within the data field.
 
 
-![alt text](<Tableau Viz/Top Paying Jobs and their Skills in London 2023.png>)
+![alt text](<Tableau Viz/Top Paying Jobs in London 2023 Dashboard (1).png>)
 *A simple bar graph showing the top 15 highest paying data analyst jobs in London in 2023 and their salaries. This visualization was created using tableau and my query results as a csv.*
 
 
@@ -116,7 +116,7 @@ ORDER BY salary_year_avg DESC
 
 These Insights were drawn from the SQL query results as well as the Tableau Visualization below.
 
-![alt text](<sql_project/Tableau Viz/Top Paying Jobs and their Skills in London 2023.png>)
+![alt text](<Tableau Viz/Top Paying Jobs and their Skills in London 2023.png>)
 *A simple bar graph showing the top 10 highest skill count for the top 15 data analyst jobs in London for 2023.*
 
 
